@@ -1,5 +1,5 @@
-venv/
+ven/
 __pycache__/
 *.pyc
 *.log
-db.sqlie3
+db.sqlite3
